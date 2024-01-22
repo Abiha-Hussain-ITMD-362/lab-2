@@ -1,6 +1,5 @@
 #entryinput {
-  width: 500px;
-  margin: 4% 5%;
+  width: 50%;
   font-size: 15px;
   font-family: verdana;
   border: 1px solid black;
@@ -26,5 +25,5 @@ body {
 }
 
 #container {
-   margin: 10% 10%;
+   margin: 50% 10%;
 }
