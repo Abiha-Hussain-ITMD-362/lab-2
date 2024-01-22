@@ -3,9 +3,7 @@
   margin: 0 5%;
   font-size: 15px;
   font-family: verdana;
-  padding: 0;
   border: 1px solid black;
-  background-color: grey;
   color: back;
 }
 
@@ -14,9 +12,8 @@
   margin: 0 5%;
   font-size: 15px;
   font-family: verdana;
-  padding: 0;
+  padding: 20% 5%;
   border: 1px solid black;
-  background-color: grey;
   color: back;
 }
   
