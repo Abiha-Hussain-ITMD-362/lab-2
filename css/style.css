@@ -27,3 +27,13 @@ body {
   font-family: verdana;
   margin: 5%;
 }
+
+@media screen and (min-width: 510px) {
+  #entryinput {
+    width: 300px;
+  }
+
+  #button {
+    width: 300px;
+  } 
+}
