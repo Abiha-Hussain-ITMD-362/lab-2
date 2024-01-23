@@ -16,11 +16,12 @@
 }
 
 #button: hover {
- background-color: black;
- color: white;
+  margin-top: 5%;
+  background-color: black;
+  color: white;
 }
 
 body {
   font-family: verdana;
-  margin: 10%;
+  margin: 35%;
 }
