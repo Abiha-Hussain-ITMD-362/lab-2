@@ -18,7 +18,17 @@
   padding: 3px 5px;
   border: 2px solid black;
   border-radius: 5px;
+}
 
+#dob {
+  width: 150px;
+  font-size: 15px;
+  font-family: verdana;
+  padding: 3px 5px;
+  border: 1px solid black;
+  box-sizing: border-box;
+  padding: 5px 10px;
+  border-radius: 5px;
 }
 
 body {
@@ -38,6 +48,10 @@ body {
   #button {
     width: 300px;
   } 
+  
+  #dob {
+    width: 80px;
+  }
   
   body {
     margin: 1%;
