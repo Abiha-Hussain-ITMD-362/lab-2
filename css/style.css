@@ -1,5 +1,5 @@
 #entryinput {
-  width: 30%;
+  width: 500px;
   font-size: 15px;
   font-family: verdana;
   border: 1px solid black;
@@ -7,7 +7,7 @@
 }
 
 #button {
-  width: 30%;
+  width: 500px;
   font-size: 15px;
   font-family: verdana;
   border: 1px solid black;
@@ -20,4 +20,5 @@
 
 body {
   font-family: verdana;
+  margin: 10% 30%;
 }
