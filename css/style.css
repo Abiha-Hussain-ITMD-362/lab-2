@@ -6,6 +6,7 @@
   border: 1px solid black;
   box-sizing: border-box;
   padding: 5px 10px;
+  border-radius: 5px;
 }
 
 #button {
@@ -15,12 +16,9 @@
   font-size: 15px;
   font-family: verdana;
   padding: 3px 5px;
-  border: 1px solid black;
-}
+  border: 2px solid black;
+  border-radius: 5px;
 
-#button: hover {
-  background-color: black;
-  color: white;
 }
 
 body {
@@ -32,13 +30,17 @@ body {
   #entryinput {
     width: 300px;
   }
-
+  
+  #entryinput: hover {
+    background-color: #EBF8FF;
+  }
+  
   #button {
     width: 300px;
   } 
   
   body {
-  margin: 1%;
-}
+    margin: 1%;
+  }
 
 }
