@@ -28,7 +28,7 @@ body {
   margin: 5%;
 }
 
-@media screen and (min-width: 510px) {
+@media screen and (max-width: 510px) {
   #entryinput {
     width: 300px;
   }
@@ -36,4 +36,9 @@ body {
   #button {
     width: 300px;
   } 
+  
+  body {
+  margin: 1%;
+}
+
 }
