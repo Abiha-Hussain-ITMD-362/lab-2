@@ -9,7 +9,7 @@
   border-radius: 5px;
 }
 
-.button {
+#button {
   width: 300px;
   height: 45px;
   margin-top: 5%;
@@ -46,7 +46,7 @@ body {
     background-color: #EBF8FF;
   }
   
-  .button {
+  #button {
     width: 300px;
   } 
   
