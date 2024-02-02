@@ -42,7 +42,7 @@ body {
     margin: 2%;
   } 
 
-  #button, entryinput {
+  #button, #entryinput {
     width: 98%;
   }
 
