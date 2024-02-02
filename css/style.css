@@ -35,24 +35,19 @@
 
 body {
   font-family: verdana;
-  margin: 5%;
 }
 
 @media screen and (max-width: 510px) {
   .entryinput {
-    width: 300px;
+    margin: 2%;
   }
   
   #button {
-    width: 300px;
+    width: 95%;
   } 
   
   .dob {
-    width: 100px;
+    width: 33.3%;
   }
   
-  body {
-    margin: 1%;
-  }
-
 }
