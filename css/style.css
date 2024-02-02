@@ -38,12 +38,15 @@ body {
 }
 
 @media screen and (max-width: 510px) {
-  .entryinput {
-    margin: 2%;
-  }
-  
-  #button {
+  body {
     margin: 2%;
   } 
-  
+
+  #button {
+    width: 98%;
+  }
+
+  .dob {
+    width: 33.29%
+  }
 }
