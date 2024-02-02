@@ -1,5 +1,5 @@
 .entryinput {
-  width: 700px;
+  width: 95%;
   font-size: 15px;
   font-family: verdana;
   padding: 3px 5px;
@@ -7,7 +7,7 @@
   box-sizing: border-box;
   padding: 5px 10px;
   border-radius: 5px;
-  margin-bottom: 1%;
+  margin: 3%;
 }
 
 #button {
